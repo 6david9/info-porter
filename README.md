@@ -8,3 +8,5 @@
 [Node.js](nodejs.md)
 
 [Javascript](javascript.md)
+
+[非技术相关的](non_tech.md)
